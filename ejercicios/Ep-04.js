@@ -133,3 +133,8 @@ main.appendChild(newDiv3);
 
 
 console.log(main.nodeName);
+
+//Importacion de la clase choce del Ep-05
+import Coche from "./Ep-05";
+let chevrolet = new Coche("chevrolet", "camaro");
+chevrolet.arrancar();

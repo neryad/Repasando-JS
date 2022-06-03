@@ -1,0 +1,23 @@
+{
+  "name": "repasando-js",
+  "version": "1.0.0",
+  "description": "Repaso de js",
+  "main": "./ejercicios/Ep-05.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neryad/Repasando-JS.git"
+  },
+  "author": "neryad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neryad/Repasando-JS/issues"
+  },
+  "homepage": "https://github.com/neryad/Repasando-JS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
